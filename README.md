@@ -1,6 +1,7 @@
 # Localization_Program-Artificial_Intelligence_for_Robotics
 
 This code gives an abstract idea of how Google's self driving car works as part of the Udacity course taken by Dr. Sebastian Thrun.
+It implements the Monte Carlo Localization method.
 
 The function localize takes the following arguments:
 
